@@ -3,7 +3,7 @@
 *PS link-https://cses.fi/problemset/task/1083
 */
 import java.util.*;
-public class Q6_1086 {
+public class Q6_1083 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         long n,temp,sum;
